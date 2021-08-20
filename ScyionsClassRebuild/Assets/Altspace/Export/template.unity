@@ -13965,7 +13965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1093256705}
   m_Layer: 14
-  m_Name: Scene
+  m_Name: Low_Poly_Scene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
