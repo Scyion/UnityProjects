@@ -4641,6 +4641,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp2_ShortDouble (Black)
       objectReference: {fileID: 0}
+    - target: {fileID: 5150829015901351959, guid: 683754683c8213e4ea879026d84be241,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 8151570764710396420, guid: 683754683c8213e4ea879026d84be241,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5367,6 +5372,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetLamp2_Short (Concrete)
       objectReference: {fileID: 0}
+    - target: {fileID: 8669595224616019464, guid: 10078452dab690a4099417aafe441aed,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10078452dab690a4099417aafe441aed, type: 3}
 --- !u!4 &404373144 stripped
@@ -5903,6 +5913,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetLamp2_ShortDouble (Black) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5150829015901351959, guid: 683754683c8213e4ea879026d84be241,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8151570764710396420, guid: 683754683c8213e4ea879026d84be241,
         type: 3}
@@ -7724,6 +7739,8 @@ Transform:
   m_Children:
   - {fileID: 1313892448}
   - {fileID: 1093256705}
+  - {fileID: 1023229987}
+  - {fileID: 2092315443}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10172,7 +10189,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.57099396, b: 0.33823532, a: 1}
-  m_Intensity: 1.04
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -13357,7 +13374,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1023229987}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: StreetLights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13371,7 +13388,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023229986}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0.9740639, y: -7.14497, z: 37.381073}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -13379,7 +13396,7 @@ Transform:
   - {fileID: 347326380}
   - {fileID: 439463821}
   - {fileID: 404373144}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 571367152}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1024000167
@@ -17147,6 +17164,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetLamp2_ShortDouble (Black) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5150829015901351959, guid: 683754683c8213e4ea879026d84be241,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8151570764710396420, guid: 683754683c8213e4ea879026d84be241,
         type: 3}
@@ -29341,7 +29363,7 @@ GameObject:
   - component: {fileID: 2092315442}
   - component: {fileID: 2092315441}
   - component: {fileID: 2092315440}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29416,12 +29438,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092315439}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 13.1, y: 4, z: 74.3}
   m_LocalScale: {x: 1, y: 1, z: 10}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_Father: {fileID: 571367152}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2093514449
 PrefabInstance:
