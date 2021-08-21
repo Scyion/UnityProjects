@@ -10171,7 +10171,7 @@ GameObject:
   - component: {fileID: 758770378}
   - component: {fileID: 758770377}
   m_Layer: 14
-  m_Name: Directional Light
+  m_Name: Sunlight Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10189,7 +10189,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.57099396, b: 0.33823532, a: 1}
-  m_Intensity: 1.04
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
