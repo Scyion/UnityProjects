@@ -21714,10 +21714,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3702431261691921820, guid: a9129ae83f8faf646961b70c4b103833,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a9129ae83f8faf646961b70c4b103833,
         type: 3}
       propertyPath: m_Name
       value: PT_Ore_Rock_BackBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a9129ae83f8faf646961b70c4b103833,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2678150391462265373, guid: a9129ae83f8faf646961b70c4b103833,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967640213216421541, guid: a9129ae83f8faf646961b70c4b103833,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a9129ae83f8faf646961b70c4b103833, type: 3}
