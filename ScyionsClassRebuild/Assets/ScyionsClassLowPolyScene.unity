@@ -16626,7 +16626,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 63219ee91f6861c41bf747a05d2e15cc, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -32016,7 +32016,7 @@ GameObject:
   - component: {fileID: 2018382442}
   - component: {fileID: 2018382441}
   m_Layer: 14
-  m_Name: Sphere
+  m_Name: CirclingSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
