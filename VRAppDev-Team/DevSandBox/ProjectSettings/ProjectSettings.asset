@@ -146,6 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.DefaultCompany.DevSandBox
     Standalone: com.DefaultCompany.DevSandBox
   buildNumber:
     Standalone: 0
